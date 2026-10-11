@@ -64,7 +64,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_2_nlp/blob/main/week_03_language_modeling/Practice/char-level_training.ipynb)
 
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
-  <span>Запись лекции &laquo;Семинар. Языковое моделирование&raquo; доступна на</span>
+  <span>Запись семинара &laquo;Семинар. Языковое моделирование&raquo; доступна на</span>
   <a href="https://youtu.be/SzbdlJ0wBCo?si=vLuP31WxLW_IXY1d" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
   </a>
