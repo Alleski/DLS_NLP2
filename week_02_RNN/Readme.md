@@ -63,16 +63,7 @@
 ### Семинар
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/part_2_nlp/blob/main/week_02_RNN/Practice/neural_text_classification.ipynb)
 
-<div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
-  <span>Запись Семинара &laquo;Семинар. Решение задачи классификации текста&raquo; доступна на</span>
-  <a href="https://youtu.be/ltyWeIPrAVA?si=WqMFMa2jMY43w055" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
-  </a>
-  <span>и</span>
-  <a href="https://vkvideo.ru/video-155161349_456239184" target="_blank" rel="noopener" aria-label="Watch on VK" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/vk" alt="VK" width="20" style="vertical-align: bottom;"> VK Видео
-  </a>
-</div>
+
 
 
 В этом видео мы решим задачу бинарной классификации с помощью рекуррентной нейронной сети. Узнаем, как использовать стандартные модули из библиотеки torch  и сравним два подхода к агрегации эмбеддингов: max pooling и простое усреднение.
